@@ -29,7 +29,18 @@ This project is a **simple simulation of a banking system**, developed as a prac
    [5] Find Client.
    [6] Exit.
 ====================================================
-Choose what you want to do? [1 to 6]:
+Choose what you want to do? [1 to 6]: 1
+
+Client list (3) client(s).
+-----------------------------------------------------------------------------------------------
+| Account Number | Pin Code | Name                          | Phone       | Balance    |
+-----------------------------------------------------------------------------------------------
+| 12345          | 0000     | John Doe                      | 123-456-7890| 5000.00    |
+| 67890          | 1234     | Jane Smith                    | 987-654-3210| 1500.50    |
+| 11223          | 5678     | Mark Johnson                  | 555-123-4567| 3000.75    |
+-----------------------------------------------------------------------------------------------
+
+Press any key to go the main menu...
 
 
 # After selecting "Add New Client," the user is prompted to enter the following details:
